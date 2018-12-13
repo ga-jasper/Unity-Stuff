@@ -9,3 +9,6 @@ move paddle by arrow keys not mouse
 
 
 Make image background for all slides
+
+
+leveling system
